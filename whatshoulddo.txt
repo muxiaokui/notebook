@@ -2,4 +2,5 @@
 2.git status看状态
 3.git diff 文件 看区别
 4.git commit -m "这里是本次的描述"
-5.哇哈哈哈
+5.git reset --hard HEAD^ 或者指定的标号 退回
+6.git reflog  看清楚所有提交的版本，可以回归未来
