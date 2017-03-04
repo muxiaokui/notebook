@@ -4,3 +4,5 @@
 4.git commit -m "这里是本次的描述"
 5.git reset --hard HEAD^ 或者指定的标号 退回
 6.git reflog  看清楚所有提交的版本，可以回归未来
+7.git checkout -- file 用版本库change掉当前的工作区
+8.git rm XX
