@@ -1,0 +1,4 @@
+1.git add 文件 添加即将提交的文件
+2.git status看状态
+3.git diff 文件 看区别
+4.git commit -m "这里是本次的描述"
