@@ -6,3 +6,4 @@
 6.git reflog  看清楚所有提交的版本，可以回归未来
 7.git checkout -- file 用版本库change掉当前的工作区
 8.git rm XX
+9hehe
